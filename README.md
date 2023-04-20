@@ -9,7 +9,7 @@
 
 Nesse abordaremos:
 
-- Campo select;
+- Campo select e a sua customização;
 - Campo checkbox;
 - Imagem centralizada no header.
 
