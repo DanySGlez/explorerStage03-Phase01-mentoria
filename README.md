@@ -9,11 +9,11 @@
 
 Nesse abordaremos:
 
-- Campo select;
+- Campo select e a sua customização;
 - Campo checkbox;
 - Imagem centralizada no header.
 
-[Clique aqui para acessar](https://danysglez.github.io/Explorer-Stage02-phase04/)
+[Clique aqui para acessar](https://danysglez.github.io/explorerStage03-Phase01-mentoria/)
 
 ### Tecnologias utilizadas:
 
