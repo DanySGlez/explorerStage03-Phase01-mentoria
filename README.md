@@ -1,6 +1,6 @@
 # Desafio 02 - Stage 03
 
-![preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 > Explorer
 
